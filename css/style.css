@@ -35,7 +35,7 @@
 	td.pub_td2
 	{
 	}
-	
+
 	td.year_heading
 	{
 		color: #3B3B3B;
@@ -55,7 +55,7 @@
 		position: relative;
 		background-color: #FFF;
 	}
-	
+
 	div#DocInfo
 	{
 		color: #9B9B9B;
@@ -111,7 +111,7 @@
 		background-color: #FFF;
 	}
 	img.teaser_img {
-		width: 64px;
+		width: 286px;
 		display: block;
 		//margin-left: auto;
 		margin-right: auto;

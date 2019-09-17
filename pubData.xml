@@ -1,31 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
 	<paper>
-		<image>j2.png</image>
-		<title>Paradigm shift</title>
-		<author>Sakshi, Akmal, Iida</author>
+		<image>jif2.png</image>
+		<title>Game refinement theory: Paradigm shift from performance optimization to comfort in mind</title>
+		<author>Sakshi Agarwal, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>Entertainment Computing</publisher>
 		<year>2019</year>
+		<link>https://doi.org/10.1016/j.entcom.2019.100314</link>
 	</paper>
 	<paper>
-		<image>j2.png</image>
-		<title>Paradigm shift 2</title>
-		<author>Omar, Akmal, Iida</author>
-		<publisher>Entertainment Computing</publisher>
+		<image>pc19.jpg</image>
+		<title>Finding Comfortable Settings of Chinese Checkers</title>
+		<author>Wu Yisi, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>INCITEST2019</publisher>
 		<year>2019</year>
+		<link>https://www.researchgate.net/publication/334326536_Finding_Comfortable_Settings_of_Chinese_Checkers</link>
 	</paper>
 	<paper>
-		<image>j2.png</image>
-		<title>Paradigm shift 3</title>
-		<author>Ali, Akmal, Iida</author>
-		<publisher>Entertainment Computing</publisher>
+		<image>pc18.png</image>
+		<title>Using Curiosity Model to Characterize Edutainment based on Learners Growth Rate</title>
+		<author>Sakshi Agarwal, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
+		<publisher>AWIST2019</publisher>
+		<year>2019</year>
+		<link>https://www.researchgate.net/publication/334360163_Using_Curiosity_Model_to_Characterize_Edutainment_based_on_Learner%27s_Growth_Rate</link>
+	</paper>
+	<paper>
+		<image>pc17.png</image>
+		<title>User-centered Entertainment Factors for Platform Transformation and Game Development</title>
+		<author>Punyawee Anunpattana, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
+		<publisher>AWIST2019</publisher>
+		<year>2019</year>
+		<link>https://www.researchgate.net/publication/334359648_User-centered_Entertainment_Factors_for_Platform_Transformation_and_Game_Development</link>
+	</paper>
+	<paper>
+		<image>pc16.png</image>
+		<title>Can we save near-dying games? An approach using advantage of initiative and game refinement measures</title>
+		<author>Htun Pa Pa Aung, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
+		<publisher>AWIST2019</publisher>
+		<year>2019</year>
+		<link>https://www.researchgate.net/publication/334356393_Can_we_save_near-dying_games_An_approach_using_advantage_of_initiative_and_game_refinement_measures</link>
+	</paper>
+	<paper>
+		<image>pc15.png</image>
+		<title>Quantifying a multiplayer game attractiveness of a Chinese card game DouDiZhu</title>
+		<author>Yuexian Gao, Wanxiang Li, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
+		<publisher>ICCST2019</publisher>
+		<year>2019</year>
+		<link>https://link.springer.com/chapter/10.1007/978-981-15-0058-9_29</link>
+	</paper>
+	<paper>
+		<image>pc14.png</image>
+		<title>Single Conspiracy Number Analysis in Checkers</title>
+		<author>Sarot Busala, Zhang Song, Hiroyuki Iida, Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
+		<publisher>ICAART2019</publisher>
+		<year>2019</year>
+		<link>https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=73440</link>
+	</paper>
+	<paper>
+		<image>jp16.png</image>
+		<title>Coopetition in Solving Combinatorial Optimization Problem: Application to the Industrial Assembly Line Balancing Problem</title>
+		<author>Yuexian Gao, Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Hiroyuki Iida</author>
+		<publisher>International Journal of Recent Technology and Engineering (IJRTE)</publisher>
+		<year>2019</year>
+		<link>#</link>
+	</paper>
+	<paper>
+		<image>pc13.png</image>
+		<title>Classification of Manufacturing High Dimensional Data Using Deep Learning-based Approach</title>
+		<author>Yusof, Umi Kalsom and Khalid, Mohd Nor Akmal</author>
+		<publisher>BDS&amp;PRAGMA35</publisher>
 		<year>2018</year>
+		<link>https://bigdatasummit2.usm.my/event/1/contributions/32/attachments/11/15/Classification_of_Manufacturing_High_Dimensional_Data_v4.pdf</link>
 	</paper>
 	<paper>
-		<image>j2.png</image>
-		<title>Paradigm shift 4</title>
-		<author>Ammar, Akmal, Iida</author>
-		<publisher>Entertainment Computing</publisher>
-		<year>2017</year>
+		<image>jif1.png</image>
+		<title>Dynamic crowd evacuation approach for the emergency route planning problem: Application to case studies</title>
+		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
+		<publisher>Safety Science</publisher>
+		<year>2018</year>
+		<link>https://doi.org/10.1016/j.ssci.2017.10.024</link>
 	</paper>
 </publication>
