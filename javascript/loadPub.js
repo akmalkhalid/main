@@ -6,7 +6,7 @@ function loadXMLDoc() {
     }
   };
   
-  xmlhttp.open("GET", "pubData.xml", true);
+  xmlhttp.open("GET", "data/pubData.xml", true);
   xmlhttp.send();
 }
 
