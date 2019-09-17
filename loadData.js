@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	$.ajax({
 		type: "GET",
-		url: "js/pubData.xml",
+		url: "pubData.xml",
 		datatype: "xml",
 		success: function(xmlData){
 		
