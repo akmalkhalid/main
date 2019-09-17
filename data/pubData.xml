@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<publication>
+	<paper>
+		<image>j2.png</image>
+		<title>Paradigm shift</title>
+		<author>Sakshi, Akmal, Iida</author>
+		<publisher>Entertainment Computing</publisher>
+		<year>2019</year>
+	</paper>
+	<paper>
+		<image>j2.png</image>
+		<title>Paradigm shift 2</title>
+		<author>Omar, Akmal, Iida</author>
+		<publisher>Entertainment Computing</publisher>
+		<year>2019</year>
+	</paper>
+	<paper>
+		<image>j2.png</image>
+		<title>Paradigm shift 3</title>
+		<author>Ali, Akmal, Iida</author>
+		<publisher>Entertainment Computing</publisher>
+		<year>2018</year>
+	</paper>
+	<paper>
+		<image>j2.png</image>
+		<title>Paradigm shift 4</title>
+		<author>Ammar, Akmal, Iida</author>
+		<publisher>Entertainment Computing</publisher>
+		<year>2017</year>
+	</paper>
+</publication>

@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<publication>
+	<year>
+		<number>Preprint</number>
+		<papers>
+			<paper>
+				<image>j2.jpg</image>
+				<author>Sakshi, Akmal, Iida</author>
+				<title>Paradigm Shift</title>
+				<publisher>Entertainment Computing</publisher>
+				<links>
+					<link>
+						<medium>Paper</medium>
+						<url>
+							<![CDATA[ https://doi.org/10.1016/j.entcom.2019.100314 ]]>
+						</url>
+					</link>
+					<link>
+						<medium>Web</medium>
+						<url>
+							<![CDATA[ https://doi.org/10.1016/j.entcom.2019.100314 ]]>
+						</url>
+					</link>
+				</links>
+			</paper>
+			<paper>
+				<image>j2.jpg</image>
+				<author>Sakshi, Akmal, Iida</author>
+				<title>Paradigm Shift 2</title>
+				<publisher>Entertainment Computing</publisher>
+				<links>
+					<link>
+						<medium>Paper</medium>
+						<url>
+							<![CDATA[ https://doi.org/10.1016/j.entcom.2019.100314 ]]>
+						</url>
+					</link>
+				</links>
+			</paper>
+		</papers>
+	</year>
+	<year>
+		
+	</year>
+</publication>
