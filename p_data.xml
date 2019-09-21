@@ -1,142 +1,139 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
-		<year>
-			<number>2019</number>
-			<papers>
-				<paper>
-					<image>jif2.png</image>
-					<title>Game refinement theory: Paradigm shift from performance optimization to comfort in mind</title>
-					<author>Sakshi Agarwal, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
-					<publisher>Entertainment Computing</publisher>
-					<link>https://doi.org/10.1016/j.entcom.2019.100314</link>
-				</paper>
-				<paper>
-					<image>pc19.jpg</image>
-					<title>Finding Comfortable Settings of Chinese Checkers</title>
-					<author>Wu Yisi, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
-					<publisher>INCITEST2019</publisher>
-					<link>https://www.researchgate.net/publication/334326536_Finding_Comfortable_Settings_of_Chinese_Checkers</link>
-				</paper>
-				<paper>
-					<image>pc18.png</image>
-					<title>Using Curiosity Model to Characterize Edutainment based on Learners Growth Rate</title>
-					<author>Sakshi Agarwal, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
-					<publisher>AWIST2019</publisher>
-					<link>https://www.researchgate.net/publication/334360163_Using_Curiosity_Model_to_Characterize_Edutainment_based_on_Learner%27s_Growth_Rate</link>
-				</paper>
-				<paper>
-					<image>pc17.png</image>
-					<title>User-centered Entertainment Factors for Platform Transformation and Game Development</title>
-					<author>Punyawee Anunpattana, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
-					<publisher>AWIST2019</publisher>
-					<link>https://www.researchgate.net/publication/334359648_User-centered_Entertainment_Factors_for_Platform_Transformation_and_Game_Development</link>
-				</paper>
-				<paper>
-					<image>pc16.png</image>
-					<title>Can we save near-dying games? An approach using advantage of initiative and game refinement measures</title>
-					<author>Htun Pa Pa Aung, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
-					<publisher>AWIST2019</publisher>
-					<link>https://www.researchgate.net/publication/334356393_Can_we_save_near-dying_games_An_approach_using_advantage_of_initiative_and_game_refinement_measures</link>
-				</paper>
-				<paper>
-					<image>pc15.png</image>
-					<title>Quantifying a multiplayer game attractiveness of a Chinese card game DouDiZhu</title>
-					<author>Yuexian Gao, Wanxiang Li, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
-					<publisher>ICCST2019</publisher>
-					<link>https://link.springer.com/chapter/10.1007/978-981-15-0058-9_29</link>
-				</paper>
-				<paper>
-					<image>pc14.png</image>
-					<title>Single Conspiracy Number Analysis in Checkers</title>
-					<author>Sarot Busala, Zhang Song, Hiroyuki Iida, Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
-					<publisher>ICAART2019</publisher>
-					<link>https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=73440</link>
-				</paper>
-				<paper>
-					<image>jp16.png</image>
-					<title>Coopetition in Solving Combinatorial Optimization Problem: Application to the Industrial Assembly Line Balancing Problem</title>
-					<author>Yuexian Gao, Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Hiroyuki Iida</author>
-					<publisher>International Journal of Recent Technology and Engineering (IJRTE)</publisher>
-					<link>#</link>
-				</paper>
-			</papers>
-	</year>
-	<year>
-		<number>2018</number>
-		<papers>
-			<paper>
-				<image>pc13.png</image>
-				<title>Classification of Manufacturing High Dimensional Data Using Deep Learning-based Approach</title>
-				<author>Yusof, Umi Kalsom and Khalid, Mohd Nor Akmal</author>
-				<publisher>BDS&amp;PRAGMA35</publisher>
-				<link>https://bigdatasummit2.usm.my/event/1/contributions/32/attachments/11/15/Classification_of_Manufacturing_High_Dimensional_Data_v4.pdf</link>
-			</paper>
-			<paper>
-				<image>jif1.png</image>
-				<title>Dynamic crowd evacuation approach for the emergency route planning problem: Application to case studies</title>
-				<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
-				<publisher>Safety Science</publisher>
-				<link>https://doi.org/10.1016/j.ssci.2017.10.024</link>
-			</paper>
-			<paper>
-				<image>jp15.png</image>
-				<title>Analysis of Realm of Valor and its Business Model on PC and Mobile Platform Comparison</title>
-				<author>Punyawee Anunpattana, Mohd Nor Akmal Khalid, Umi Kalsom Yusof, Hiroyuki Iida</author>
-				<publisher>Asia-Pacific Journal of Information Technology and Multimedia</publisher>
-				<link>http://ejournals.ukm.my/apjitm/article/view/27112/8965</link>
-			</paper>
-			<paper>
-				<image>jp14.png</image>
-				<title>An Artificial Immune System Approach for Type E Assembly Line Balancing Problem</title>
-				<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Zarul Fitri Zaaba</author>
-				<publisher>Journal of Engineering and Technology (IJET)</publisher>
-				<link>https://www.sciencepubco.com/index.php/ijet/article/view/23371</link>
-			</paper>
-			<paper>
-				<image>jp13.png</image>
-				<title>Alzheimer Patient Detection using Bayesian Network Model</title>
-				<author>Chong Tiam Fei, Mohd Nor Akmal Khalid, Umi Kalsom Yusof</author>
-				<publisher>Advance Science Letters</publisher>
-				<link>https://www.ingentaconnect.com/contentone/asp/asl/2018/00000024/00000002/art00108</link>
-			</paper>
-			<paper>
-				<image>jp12.png</image>
-				<title>Automatic Detection Method of Pipeline Anomalies on Caliper Data</title>
-				<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Muhammad Thaqif Isa</author>
-				<publisher>Advance Science Letters</publisher>
-				<link>https://www.ingentaconnect.com/contentone/asp/asl/2018/00000024/00000002/art00109</link>
-			</paper>
-		</papers>
-	</year>
-	<year>
-		<number>2016</number>
-		<papers>
-			<paper>
-				<image>jp11.png</image>
-				<title>A Survey on Bio-Inspired Multi-Agent System for Versatile Manufacturing Assembly Line</title>
-				<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Ku Munirah Ku Aman</author>
-				<publisher>Innovative Computing, Information and Control Express Letters</publisher>
-				<link>http://www.ijicic.org/el-10(1).htm</link>
-			</paper>
-			<paper>
-				<image>pc12.png</image>
-				<title>Model Student Selection Using Fuzzy Logic Reasoning Approach</title>
-				<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Looi Guo Xiang</author>
-				<publisher>ICAICTA2016</publisher>
-				<link>https://ieeexplore.ieee.org/document/7803116</link>
-			</paper>
-		</papers>
-	</year>
-	<year>
-		<number>2015</number>
-		<papers>
-			<paper>
-				<image>jp10.png</image>
-				<title>Immune-Based Approach For Optimizing Emergency Route Planning Problem: Application To Case Studies</title>
-				<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
-				<publisher>Innovative Computing, Information and Control Express Letters</publisher>
-				<link>http://www.ijicic.org/el-9(12).htm</link>
-			</paper>
-		</papers>
-	</year>
+	<paper>
+		<year>2019</year>
+		<image>jif2.png</image>
+		<title>Game refinement theory: Paradigm shift from performance optimization to comfort in mind</title>
+		<author>Sakshi Agarwal, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>Entertainment Computing</publisher>
+		<link>https://doi.org/10.1016/j.entcom.2019.100314</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>pc19.jpg</image>
+		<title>Finding Comfortable Settings of Chinese Checkers</title>
+		<author>Wu Yisi, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>INCITEST2019</publisher>
+		<link>https://www.researchgate.net/publication/334326536_Finding_Comfortable_Settings_of_Chinese_Checkers</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>pc18.png</image>
+		<title>Using Curiosity Model to Characterize Edutainment based on Learners Growth Rate</title>
+		<author>Sakshi Agarwal, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
+		<publisher>AWIST2019</publisher>
+		<link>https://www.researchgate.net/publication/334360163_Using_Curiosity_Model_to_Characterize_Edutainment_based_on_Learner%27s_Growth_Rate</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>pc17.png</image>
+		<title>User-centered Entertainment Factors for Platform Transformation and Game Development</title>
+		<author>Punyawee Anunpattana, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
+		<publisher>AWIST2019</publisher>
+		<link>https://www.researchgate.net/publication/334359648_User-centered_Entertainment_Factors_for_Platform_Transformation_and_Game_Development</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>pc16.png</image>
+		<title>Can we save near-dying games? An approach using advantage of initiative and game refinement measures</title>
+		<author>Htun Pa Pa Aung, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
+		<publisher>AWIST2019</publisher>
+		<link>https://www.researchgate.net/publication/334356393_Can_we_save_near-dying_games_An_approach_using_advantage_of_initiative_and_game_refinement_measures</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>pc15.png</image>
+		<title>Quantifying a multiplayer game attractiveness of a Chinese card game DouDiZhu</title>
+		<author>Yuexian Gao, Wanxiang Li, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
+		<publisher>ICCST2019</publisher>
+		<link>https://link.springer.com/chapter/10.1007/978-981-15-0058-9_29</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>pc14.png</image>
+		<title>Single Conspiracy Number Analysis in Checkers</title>
+		<author>Sarot Busala, Zhang Song, Hiroyuki Iida, Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
+		<publisher>ICAART2019</publisher>
+		<link>https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=73440</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>jp16.png</image>
+		<title>Coopetition in Solving Combinatorial Optimization Problem: Application to the Industrial Assembly Line Balancing Problem</title>
+		<author>Yuexian Gao, Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Hiroyuki Iida</author>
+		<publisher>IJRTE</publisher>
+		<link>#</link>
+	</paper>
+	<paper>
+		<year>2018</year>
+		<image>pc13.png</image>
+		<title>Classification of Manufacturing High Dimensional Data Using Deep Learning-based Approach</title>
+		<author>Yusof, Umi Kalsom and Khalid, Mohd Nor Akmal</author>
+		<publisher>BDS&amp;PRAGMA35</publisher>
+		<link>https://bigdatasummit2.usm.my/event/1/contributions/32/attachments/11/15/Classification_of_Manufacturing_High_Dimensional_Data_v4.pdf</link>
+	</paper>
+	<paper>
+		<year>2018</year>
+		<image>jif1.png</image>
+		<title>Dynamic crowd evacuation approach for the emergency route planning problem: Application to case studies</title>
+		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
+		<publisher>Safety Science</publisher>
+		<link>https://doi.org/10.1016/j.ssci.2017.10.024</link>
+	</paper>
+	<paper>
+		<year>2018</year>
+		<image>jp15.png</image>
+		<title>Analysis of Realm of Valor and its Business Model on PC and Mobile Platform Comparison</title>
+		<author>Punyawee Anunpattana, Mohd Nor Akmal Khalid, Umi Kalsom Yusof, Hiroyuki Iida</author>
+		<publisher>APJITM</publisher>
+		<link>http://ejournals.ukm.my/apjitm/article/view/27112/8965</link>
+	</paper>
+	<paper>
+		<year>2018</year>
+		<image>jp14.png</image>
+		<title>An Artificial Immune System Approach for Type E Assembly Line Balancing Problem</title>
+		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Zarul Fitri Zaaba</author>
+		<publisher>IJET</publisher>
+		<link>https://www.sciencepubco.com/index.php/ijet/article/view/23371</link>
+	</paper>
+	<paper>
+		<year>2018</year>
+		<image>jp13.png</image>
+		<title>Alzheimer Patient Detection using Bayesian Network Model</title>
+		<author>Chong Tiam Fei, Mohd Nor Akmal Khalid, Umi Kalsom Yusof</author>
+		<publisher>Advance Science Letters</publisher>
+		<link>https://www.ingentaconnect.com/contentone/asp/asl/2018/00000024/00000002/art00108</link>
+	</paper>
+	<paper>
+		<year>2018</year>
+		<image>jp12.png</image>
+		<title>Automatic Detection Method of Pipeline Anomalies on Caliper Data</title>
+		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Muhammad Thaqif Isa</author>
+		<publisher>Advance Science Letters</publisher>
+		<link>https://www.ingentaconnect.com/contentone/asp/asl/2018/00000024/00000002/art00109</link>
+	</paper>
+	<paper>
+		<year>2016</year>
+		<image>jp11.png</image>
+		<title>A Survey on Bio-Inspired Multi-Agent System for Versatile Manufacturing Assembly Line</title>
+		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Ku Munirah Ku Aman</author>
+		<publisher>ICIC Express Letters</publisher>
+		<link>http://www.ijicic.org/el-10(1).htm</link>
+	</paper>
+	<paper>
+		<year>2016</year>
+		<image>pc12.png</image>
+		<title>Model Student Selection Using Fuzzy Logic Reasoning Approach</title>
+		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Looi Guo Xiang</author>
+		<publisher>ICAICTA2016</publisher>
+		<link>https://ieeexplore.ieee.org/document/7803116</link>
+	</paper>
+	<paper>
+		<year>2015</year>
+		<image>jp10.png</image>
+		<title>Immune-Based Approach For Optimizing Emergency Route Planning Problem: Application To Case Studies</title>
+		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
+		<publisher>ICIC Express Letters</publisher>
+		<link>http://www.ijicic.org/el-9(12).htm</link>
+	</paper>
 </publication>
