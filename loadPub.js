@@ -16,7 +16,7 @@ $(document).ready(function(){
 					var publisher_data = $(this).find("publisher").text();
 					var link_data = $(this).find("link").text();
 
-					html_data += '<a class="' + year_data + '" href="' + link_data + '">';
+					html_data += '<a class="' + year_data + '" href="' + link_data + '" target="_blank">';
 					html_data += '<div class="each"><div class=" gatsby-image-wrapper" style="position: relative; overflow: hidden; display: inline-block; width: 150px; height: 150px;">';
 					html_data += '<picture><img src="images/papers/' + image_data + '" ';
 					html_data += 'alt="' + image_data + '" loading="lazy" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; ';

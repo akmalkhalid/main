@@ -17,7 +17,7 @@ $(document).ready(function(){
 
           if (year_data.indexOf('2019') > -1) {
 
-            html_data += '<a href="' + link_data + '"><div class="each">';
+            html_data += '<a href="' + link_data + '" target="_blank"><div class="each">';
   					html_data += '<div class=" gatsby-image-wrapper" style="position: relative; overflow: hidden; display: inline-block; width: 150px; height: 150px;">';
   					html_data += '<picture><img src="images/papers/' + image_data + '" alt="' + image_data + '" ';
   					html_data += 'loading="lazy" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1; transition: none 0s ease 0s;" width="150" height="150">';
