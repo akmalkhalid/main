@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
 	<paper>
+		<year>2020</year>
+		<image>pc23.png</image>
+		<title>Analysis of Card Collection Game Hearthstone</title>
+		<author>Chen Xiao, Anggina Primanita, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
+		<publisher>2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence</publisher>
+		<link>https://doi.org/10.1109/TAAI48200.2019.8959847</link>
+	</paper>
+	<paper>
+		<year>2020</year>
+		<image>pc22.png</image>
+		<title>Analysis of Boardgames using Eye-tracking: Case Study with Gomoku</title>
+		<author>Wu, Yicong and Htun Pa Pa, Aung and Mohd Nor Akmal, Khalid and Hiroyuki, Iida</author>
+		<publisher>2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence</publisher>
+		<link>https://doi.org/10.1109/TAAI48200.2019.8959853</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>pc21.png</image>
+		<title>Evolution of Games Towards The Discovery of Noble Uncertainty</title>
+		<author>Wu, Yicong and Htun Pa Pa, Aung and Mohd Nor Akmal, Khalid and Hiroyuki, Iida</author>
+		<publisher>The 2019 International Conference on Advanced Information Technologies</publisher>
+		<link>https://doi.org/10.1109/AITC.2019.8921061</link>
+	</paper>
+	<paper>
+		<year>2019</year>
+		<image>pc20.png</image>
+		<title>Towards a fairness solution of Scrabble with Komi system</title>
+		<author>Htun Pa Pa, Aung and Mohd Nor Akmal, Khalid and Hiroyuki, Iida</author>
+		<publisher>The 2019 International Conference on Advanced Information Technologies</publisher>
+		<link>https://doi.org/10.1109/AITC.2019.8921355</link>
+	</paper>
+	<paper>
 		<year>2019</year>
 		<image>jif3.png</image>
 		<title>Simulating competitiveness and precision in a tournament structure: A reaper tournament system</title>
