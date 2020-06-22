@@ -954,6 +954,14 @@ button.dark-switcher:focus {
   border-bottom-color: #f2f2f2
 }
 
+.posts a #each {
+  display: grid;
+  align-items: center;
+  grid-template-columns: auto auto;
+  padding: 0px 0px 0px 12px;
+  margin: 0;
+}
+
 .posts a .each .date {
   margin: 0;
   font-size: .9rem;
