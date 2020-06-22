@@ -954,7 +954,7 @@ button.dark-switcher:focus {
   border-bottom-color: #f2f2f2
 }
 
-.posts a #each {
+#posts a #each {
   display: grid;
   align-items: center;
   grid-template-columns: auto auto;
