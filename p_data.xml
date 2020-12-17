@@ -2,6 +2,54 @@
 <publication>
 	<paper>
 		<year>2020</year>
+		<image>pc33.png</image>
+		<title>Attractiveness of Single-Agent Game: Case Study Using Sliding Puzzle</title>
+		<author>Chang Liu, Shunqi Huang, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>The 4th International Conference on Advanced Information Technologies (ICAIT-2020)</publisher>
+		<link>https://doi.org/10.1109/icait51105.2020.9261794</link>
+	</paper>
+	<paper>
+		<year>2020</year>
+		<image>pc32.png</image>
+		<title>Analysis of Single-Agent Game: Case Study Using Minesweeper</title>
+		<author>Wu Tingting, Huang Shunqi, Htung Pa Pa Aung, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>The 4th International Conference on Advanced Information Technologies (ICAIT-2020)</publisher>
+		<link>https://doi.org/10.1109/icait51105.2020.9261782</link>
+	</paper>
+	<paper>
+		<year>2020</year>
+		<image>pc31.png</image>
+		<title>Analysis of Jump and Jump And Its Possible Enhancement</title>
+		<author>Hong Ri, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>The 4th International Conference on Advanced Information Technologies (ICAIT-2020)</publisher>
+		<link>https://doi.org/10.1109/icait51105.2020.9261784</link>
+	</paper>
+	<paper>
+		<year>2020</year>
+		<image>pc30.png</image>
+		<title>Informational Analysis of Go, Part 2: Zuozi and Huanqitou</title>
+		<author>Wu Yicong, Chang Liu, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>The 4th International Conference on Advanced Information Technologies (ICAIT-2020)</publisher>
+		<link>https://doi.org/10.1109/icait51105.2020.9261773</link>
+	</paper>
+	<paper>
+		<year>2020</year>
+		<image>pc29.png</image>
+		<title>Combine Oversampling and Undersampling Techniques for Imbalanced Classification in Credit Card Fraudulent Transaction Dataset: A Comparative Study</title>
+		<author>Haziqah Shamsudin, Umi Kalsom Yusof, Andal Jayalakshmi, and Mohd Nor Akmal Khalid</author>
+		<publisher>16th IEEE International Conference on Control & Automation (ICCA 2020)</publisher>
+		<link>https://doi.org/10.1109/ICCA51439.2020.9264517</link>
+	</paper>
+	<paper>
+		<year>2020</year>
+		<image>pc28.png</image>
+		<title>An Artificial Immune System Approach for Solving Type-E Assembly Line Balancing Problem with Problem-Specific Information</title>
+		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Hiroyuki Iida</author>
+		<publisher>16th IEEE International Conference on Control & Automation (ICCA 2020)</publisher>
+		<link>https://doi.org/10.1109/ICCA51439.2020.9264382</link>
+	</paper>
+	<paper>
+		<year>2020</year>
 		<image>jif10.png</image>
 		<title>Player Satisfaction Model and its Implication to Cultural Change</title>
 		<author>Kang Xiaohan, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
