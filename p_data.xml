@@ -2,6 +2,14 @@
 <publication>
 	<paper>
 		<year>2020</year>
+		<image>pc34.png</image>
+		<title>Finding Flow in Training Activities by Exploring Single-Agent Arcade Game Information Dynamics</title>
+		<author>Yuexian Gao, Naying Gao, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>ICEC 2020 Entertainment Computing (ICEC 2020)</publisher>
+		<link>https://doi.org/10.1007/978-3-030-65736-9_11</link>
+	</paper>
+	<paper>
+		<year>2020</year>
 		<image>pc33.png</image>
 		<title>Attractiveness of Single-Agent Game - Case Study Using Sliding Puzzle</title>
 		<author>Chang Liu, Shunqi Huang, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
