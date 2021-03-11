@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
 	<paper>
+		<year>2021</year>
+		<image>jif11.png</image>
+		<title>Bridging Ride and Play Comfort</title>
+		<author>Zeliang Zhang, Kang Xiaohan, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
+		<publisher>Information</publisher>
+		<link>https://doi.org/10.3390/info12030119</link>
+	</paper>
+	<paper>
 		<year>2020</year>
 		<image>pc34.png</image>
 		<title>Finding Flow in Training Activities by Exploring Single-Agent Arcade Game Information Dynamics</title>
