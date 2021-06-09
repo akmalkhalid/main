@@ -745,7 +745,7 @@ button.dark-switcher:focus {
 }
 
 .container {
-  max-width: 80%;
+  max-width: 60%;
   padding: 0 1.5rem;
   margin-left: auto;
   margin-right: auto
