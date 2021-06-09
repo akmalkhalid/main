@@ -759,7 +759,8 @@ button.dark-switcher:focus {
 
 .lead {
   margin: 0 auto;
-  font-size: 1.1rem
+  font-size: 1.1rem;
+  flex-grow: 4;
 }
 
 .lead h1 {
