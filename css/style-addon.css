@@ -760,7 +760,6 @@ button.dark-switcher:focus {
 .lead {
   margin: 0 auto;
   font-size: 1.1rem;
-  flex-grow: 4;
 }
 
 .lead h1 {
@@ -1772,8 +1771,6 @@ iframe {
   display: flex;
   align-items: center;
   flex-direction: column;
-  flex-wrap: wrap;
-  flex-shrink: 3;
   //border-radius: 4px;
   border-radius: 0px 100px 0px 100px;
   margin: 2rem 0;
