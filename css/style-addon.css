@@ -771,7 +771,8 @@ button.dark-switcher:focus {
 }
 
 .lead p {
-  font-size: 1.25rem
+  font-size: 1.25rem;
+  order: 2;
 }
 
 .lead .button {
@@ -1770,6 +1771,7 @@ iframe {
 }
 
 .newsletter-section {
+  order: 1;
   display: flex;
   align-items: center;
   flex-direction: column;
