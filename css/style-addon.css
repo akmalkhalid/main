@@ -794,7 +794,7 @@ button.dark-switcher:focus {
 
   .lead p {
     font-size: 1.25rem;
-    max-width: 550px
+    max-width: 90%;
   }
 
   .lead .button {
