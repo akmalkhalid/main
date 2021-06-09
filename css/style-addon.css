@@ -759,7 +759,8 @@ button.dark-switcher:focus {
 
 .lead {
   margin: 0 auto;
-  font-size: 1.1rem
+  font-size: 1.1rem;
+  flex-flow: row wrap;
 }
 
 .lead h1 {
@@ -781,7 +782,8 @@ button.dark-switcher:focus {
   .lead {
     display: flex;
     align-items: center;
-    font-size: 1.2rem
+    font-size: 1.2rem;
+	flex-flow: row wrap;
   }
 
   .lead .elevator {
