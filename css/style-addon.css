@@ -2768,6 +2768,34 @@ code[class*=language-] ::selection, pre[class*=language-]::selection {
   margin: 0;
 }
 
+.author__urls-wrapper {
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: $sans-serif;
+  z-index: 10;
+  position: relative;
+  cursor: pointer;
+
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
+
+  @include breakpoint($large) {
+    display: block;
+  }
+
+  button {
+    margin-bottom: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+}
+
 .author__urls {
   display: none;
   position: absolute;
@@ -2782,6 +2810,49 @@ code[class*=language-] ::selection, pre[class*=language-]::selection {
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
 
+  @include breakpoint($large) {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  &:before {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -11px;
+    left: calc(50% - 10px);
+    width: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: $border-color transparent;
+    z-index: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+
+  &:after {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: calc(50% - 10px);
+    width: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: #fff transparent;
+    z-index: 1;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
 
   li {
     white-space: nowrap;
@@ -2796,5 +2867,9 @@ code[class*=language-] ::selection, pre[class*=language-]::selection {
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
