@@ -785,7 +785,7 @@ button.dark-switcher:focus {
   }
 
   .lead .elevator {
-    margin-right: 1rem
+    margin-right: 0;
   }
 
   .lead h1 {
