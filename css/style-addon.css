@@ -745,15 +745,15 @@ button.dark-switcher:focus {
 }
 
 .container {
-  max-width: 80%;
-  padding: 0 3rem;
+  max-width: 1000px;
+  padding: 0 1.5rem;
   margin-left: auto;
   margin-right: auto
 }
 
 @media (min-width:620px) {
   .container {
-    padding: 0 0
+    padding: 0 2rem
   }
 }
 
@@ -785,11 +785,7 @@ button.dark-switcher:focus {
   }
 
   .lead .elevator {
-    margin-right: 0;
-  }
-  
-  .lead .elevator p{
-    max-width: 60%;
+    margin-right: 2.5rem
   }
 
   .lead h1 {
@@ -798,7 +794,7 @@ button.dark-switcher:focus {
 
   .lead p {
     font-size: 1.25rem;
-    max-width: 90%;
+    max-width: 550px
   }
 
   .lead .button {
