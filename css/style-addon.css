@@ -784,7 +784,9 @@ button.dark-switcher:focus {
     font-size: 1.2rem
   }
 
-
+  .lead .elevator {
+    margin-right: 2.5rem
+  }
 
   .lead h1 {
     font-size: 2rem
