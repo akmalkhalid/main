@@ -760,7 +760,7 @@ button.dark-switcher:focus {
 .lead {
   margin: 0 auto;
   font-size: 1.1rem;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
 }
 
 .lead h1 {
