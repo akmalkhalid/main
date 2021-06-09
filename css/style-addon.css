@@ -759,7 +759,7 @@ button.dark-switcher:focus {
 
 .lead {
   margin: 0 auto;
-  font-size: 1.1rem;
+  font-size: 1.1rem
 }
 
 .lead h1 {
@@ -1771,8 +1771,8 @@ iframe {
   display: flex;
   align-items: center;
   flex-direction: column;
-  //border-radius: 4px;
-  border-radius: 0px 100px 0px 100px;
+  border-radius: 4px;
+  //border-radius: 0px 100px 0px 100px;
   margin: 2rem 0;
   padding: 1.5rem;
   text-align: center;
@@ -1813,7 +1813,7 @@ iframe {
 
 @media (min-width:1200px) {
   .newsletter-section {
-    margin: 40px;
+    margin: 20px;
     padding: 2rem
   }
 }
