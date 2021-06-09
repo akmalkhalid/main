@@ -1769,7 +1769,7 @@ iframe {
 
 .newsletter-section {
   display: flex;
-  align-items: left;
+  align-items: center;
   flex-direction: column;
   border-radius: 4px;
   //border-radius: 0px 100px 0px 100px;
@@ -1802,7 +1802,7 @@ iframe {
 
 @media (min-width:620px) {
   .newsletter-section .newsletter-avatar {
-    width: 100px
+    width: 150px
   }
 
   .newsletter-section .button {
@@ -1813,7 +1813,7 @@ iframe {
 
 @media (min-width:1200px) {
   .newsletter-section {
-    margin: 0;
+    margin: 20px;
     padding: 2rem
   }
 }
