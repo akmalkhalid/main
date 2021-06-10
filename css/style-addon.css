@@ -744,9 +744,15 @@ button.dark-switcher:focus {
   }
 }
 
+.flex-container {
+  max-width: 60%;
+  display: flex;
+  
+}
+
 .container {
   max-width: 60%;
-  padding: 0 1.5rem;
+  padding: 0 0;
   margin-left: auto;
   margin-right: auto
 }
