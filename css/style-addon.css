@@ -748,6 +748,25 @@ button.dark-switcher:focus {
    My own welcome page
    ========================================================================== */
 
+.flex-c {
+	border-radius: 4px;
+	box-shadow: 3px 5px 20px rgba(0, 0, 0, .16);
+	margin: 10px;
+	padding: 20px 40px 40px;
+	max-width: 640px;
+	display: flex;
+	&__a {
+		margin: 20px 30px 0 0;
+		width: 200px;
+		object-fit: contain;
+		align-self: flex-start;
+	}
+	&__b {
+		flex: 1 1 auto;
+	}
+}
+
+/*
 .flex-container {
   max-width: 60%;
   display: flex;
@@ -756,7 +775,7 @@ button.dark-switcher:focus {
   align-content: stretch;
   margin: auto;
   
-}
+}*/
 
 .flex-container .summary {
   display: flex;
