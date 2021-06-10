@@ -755,6 +755,15 @@ button.dark-switcher:focus {
 	margin: auto;
 }
 
+#my-image{
+	width:200px;
+	height:200px;
+	margin-top:.5rem;
+	margin-right:15px;
+	float:left;
+	border-radius: 50%;
+}
+
 /*
 .n-container {
 	border-radius: 4px;
