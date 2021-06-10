@@ -754,11 +754,13 @@ button.dark-switcher:focus {
   display: flex;
   flex-direction: row;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto
 }
 
 .flex-container .summary {
+  align-items: center;
   text-align: center;
+  border-radius: 4px;
   box-shadow: 3px 5px 20px rgba(0, 0, 0, .16)
 }
 
@@ -771,7 +773,7 @@ button.dark-switcher:focus {
 .my-avatar {
   margin-top: .5rem;
   border-radius: 40%;
-  width: 50px;
+  width: 50px
 }
 
 /* ========================================================================== */
