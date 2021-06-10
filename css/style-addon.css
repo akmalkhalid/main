@@ -744,6 +744,10 @@ button.dark-switcher:focus {
   }
 }
 
+/* ==========================================================================
+   My own welcome page
+   ========================================================================== */
+
 .flex-container {
   max-width: 60%;
   padding: 0 0;
@@ -753,13 +757,26 @@ button.dark-switcher:focus {
   justify-content: flex-start;
 }
 
-.flex-container {
+.flex-container .summary {
+  text-align: center;
+  box-shadow: 3px 5px 20px rgba(0, 0, 0, .16)
+}
+
+.flex-container .notes {
   max-width: 60%;
   padding: 0 0;
   display: flex;
   margin-left: auto;
   margin-right: auto;
 }
+
+.my-avatar {
+  margin-top: .5rem;
+  border-radius: 40%;
+  width: 50px;
+}
+
+/* ========================================================================== */
 
 .container {
   max-width: 60%;
