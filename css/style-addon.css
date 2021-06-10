@@ -759,6 +759,8 @@ button.dark-switcher:focus {
 
 .flex-container .summary {
   display: flex;
+  flex-direction: column;
+  padding: 2rem;
   align-items: center;
   text-align: center;
   border-radius: 4px;
