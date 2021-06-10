@@ -747,29 +747,37 @@ button.dark-switcher:focus {
 /* ==========================================================================
    My own welcome page
    ========================================================================== */
-
-.flx {
+.my-container {
 	border-radius: 4px;
 	box-shadow: 3px 5px 20px rgba(0, 0, 0, .16);
 	padding: 20px 40px 40px;
-	margin: auto;
 	max-width: 60%;
-	display: flex;
-	&__a {
-		margin: 20px 30px 0 0;
-		margin-top: .5rem;
-		border-radius: 50%;
-		width: 200px;
-		object-fit: contain;
-		align-self: flex-start;
-	}
-	&__b {
-		flex: 1 1 auto;
-		padding: 20px 40px 40px;
-	}
+	margin: auto;
 }
 
 /*
+.n-container {
+	border-radius: 4px;
+	box-shadow: 3px 5px 20px rgba(0, 0, 0, .16);
+	padding: 20px 40px 40px;
+	max-width: 60%;
+	margin: auto;
+	&-a {
+		display: inline-block;
+		vertical-align: top;
+		width: 46%;
+		margin: 20px 40px 0 0;
+	}
+	&-b {
+		display: inline-block;
+		width: 60%;
+		@media (max-width: 620px) {
+			width: 100%;
+		}
+	}
+}
+
+
 .flex-container {
   max-width: 60%;
   display: flex;
@@ -778,7 +786,7 @@ button.dark-switcher:focus {
   align-content: stretch;
   margin: auto;
   
-}*/
+}
 
 .flex-container .summary {
   display: flex;
@@ -804,6 +812,7 @@ button.dark-switcher:focus {
   border-radius: 40%;
   width: 200px
 }
+*/
 
 /* ========================================================================== */
 
