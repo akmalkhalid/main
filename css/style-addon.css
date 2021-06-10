@@ -759,7 +759,7 @@ button.dark-switcher:focus {
 		margin: 20px 30px 0 0;
 		margin-top: .5rem;
 		border-radius: 50%;
-		width: 50px;
+		width: 200px;
 		object-fit: contain;
 		align-self: flex-start;
 	}
