@@ -749,7 +749,7 @@ button.dark-switcher:focus {
    ========================================================================== */
 .my-container {
 	border-radius: 4px;
-	box-shadow: 3px 5px 20px rgba(0, 0, 0, .16);
+	//box-shadow: 3px 5px 20px rgba(0, 0, 0, .16);
 	padding: 20px 40px 10px 40px;
 	max-width: 60%;
 	margin: auto;
