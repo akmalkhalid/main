@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
+    <paper>
+		<year>2022</year>
+		<image>jif17.jpg</image>
+		<title>Nature of Arcade Games</title>
+		<author>Yuexian Gao, Chang Liu, Naying Gao, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
+		<publisher>Entertainment Computing</publisher>
+		<link>https://doi.org/10.1016/j.entcom.2021.100469</link>
+	</paper>
 	<paper>
 		<year>2021</year>
 		<image>jif16.png</image>
