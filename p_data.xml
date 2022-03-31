@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
+	<paper>
+		<year>2022</year>
+		<image>jif21.jpg</image>
+		<title>A Solver of Single-Agent Stochastic Puzzle - A Case Study with Minesweeper</title>
+		<author>Chang Liu, Shunqi Huang, Gao Naying, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
+		<publisher>Knowledge Based System</publisher>
+		<link>https://doi.org/10.1016/j.knosys.2022.108630</link>
+	</paper>
+	<paper>
+		<year>2022</year>
+		<image>jif20.jpg</image>
+		<title>The Dynamics of Minority versus Majority Behaviors - A Case Study of the Mafia Game</title>
+		<author>Hong Ri, Xiaohan Kang, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
+		<publisher>Information</publisher>
+		<link>https://doi.org/10.3390/info13030134</link>
+	</paper>
     <paper>
 		<year>2022</year>
 		<image>jif17.jpg</image>
