@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
 	<paper>
+		<year>2023</year>
+		<image>jif23.jpg</image>
+		<title>What Makes an Ideal Team? Analysis of Popular Multiplayer Online Battle Arena (MOBA) games</title>
+		<author>Sagguneswaraan Thavamuni, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
+		<publisher>Entertainment Computing</publisher>
+		<link>https://doi.org/10.1016/j.entcom.2022.100523</link>
+	</paper>
+	<paper>
+		<year>2022</year>
+		<image>jif22.jpg</image>
+		<title>Recent Techniques in Determining the Effects of Climate Change on Depressive Patients - a Systematic Review</title>
+		<author>Nur Izzati Ab Kader, Umi Kalsom Yusof, Mohd Nor Akmal Khalid, Nik Rosmawati Nik Husain</author>
+		<publisher>Journal of Environmental and Public Health</publisher>
+		<link>https://doi.org/10.1155/2022/1803401</link>
+	</paper>
+	<paper>
 		<year>2022</year>
 		<image>jif21.jpg</image>
 		<title>A Solver of Single-Agent Stochastic Puzzle - A Case Study with Minesweeper</title>
