@@ -218,12 +218,17 @@ header ul li a:hover{
 	padding-bottom: 15px;
 }
 
-.intro #pubs ul li {
-  list-style-type: "\1F4C3";
+dd {
+  display: list-item;
+  list-style-type: "📃";
   padding-inline-start: 1ch;
 }
 
-.intro #pubs ul {
+dt {
+  font-weight: bold;
+}
+
+dl {
   max-width: 30vw;
 }
 
