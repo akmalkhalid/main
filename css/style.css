@@ -335,7 +335,7 @@ header ul li a:hover{
 .posts a .each {
   display: grid;
   align-items: center;
-  grid-template-columns: 120px 1fr;
+  grid-template-columns: 1fr 120px;
   padding: 1rem 0;
   margin: 0;
   
