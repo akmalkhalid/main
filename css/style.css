@@ -329,20 +329,12 @@ header ul li a:hover{
 }
 
 .posts a .each {
-  display: grid;
+  /* display: grid; */
   align-items: center;
   grid-template-columns: 50px 1fr 70px;
   padding: 1rem 0;
   margin: 0;
   
-}
-
-#posts a #each {
-  display: grid;
-  align-items: center;
-  grid-template-columns: auto auto;
-  padding: 0px 0px 0px 12px;
-  margin: 0;
 }
 
 .posts .excerpt {
