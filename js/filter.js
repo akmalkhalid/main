@@ -19,23 +19,14 @@ $(document).ready(function() {
     if (this.id == 'all') {
       $('.posts > a').fadeIn(450);
     } else {
-      var $el = $('.' + this.id).fadeIn(450);
-      $('.posts > a').not($el).hide();
-    }
-
-    $btns.removeClass('active');
-    $(this).addClass('active');
-  });
-  
-  var $btns = $('.category-filter').click(function() {
-
-    $(".search").val('');
-
-    if (this.id == 'all') {
-      $('.posts > a').fadeIn(450);
-    } else {
-      var $el = $('#' + this.id).fadeIn(450);
-      $('.posts > a').not($el).hide();
+		
+		if(!$.isNumeric(this.id)){
+		  var $el = $('#' + this.id).fadeIn(450);
+		  $('.posts > a').not($el).hide();
+		} else{
+			var $el = $('.' + this.id).fadeIn(450);
+		  $('.posts > a').not($el).hide();
+		}
     }
 
     $btns.removeClass('active');
