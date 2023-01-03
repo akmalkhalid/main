@@ -2,7 +2,7 @@
 <publication>
 	<paper>
 		<year>2023</year>
-		<image>GE1.png</image>
+		<type>editorial</type>
 		<title>Guest Editorial: Special issue on Artificial Intelligence and Entertainment Science: Empathic Entertainment Technology</title>
 		<author>Mohd Nor Akmal Khalid, Hiroyuki Iida, Umi Kalsom Yusof, Ruzinoor Che Mat</author>
 		<publisher>Entertainment Computing</publisher>
@@ -10,15 +10,15 @@
 	</paper>
 	<paper>
 		<year>2023</year>
-		<image>pc37.jpg</image>
+		<type>proceeding</type>
 		<title>A Review of Long Short-Term Memory Approach for Time Series Analysis and Forecasting</title>
 		<author>Nur Izzati Ab Kader, Umi Kalsom Yusof, Mohd Nor Akmal Khalid, and Nik Rosmawati Nik Husain</author>
 		<publisher>2nd International Conference on Emerging Technologies and Intelligent Systems (ICETIS 2022)</publisher>
-		<link>http://dx.doi.org/</link>
+		<link>http://dx.doi.org/10.1007/978-3-031-20429-6_2</link>
 	</paper>
 	<paper>
 		<year>2023</year>
-		<image>jif23.jpg</image>
+		<type>journal</type>
 		<title>What Makes an Ideal Team - Analysis of Popular Multiplayer Online Battle Arena (MOBA) games</title>
 		<author>Sagguneswaraan Thavamuni, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Entertainment Computing</publisher>
@@ -26,7 +26,7 @@
 	</paper>
 	<paper>
 		<year>2022</year>
-		<image>jif26.jpg</image>
+		<type>journal</type>
 		<title>Implications of Jerk's On the Measure of Game’s Entertainment - Discovering Potentially Addictive Games</title>
 		<author>Naying Gao, Hengyuan Chang, Zeliang Zhang, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>IEEE Access</publisher>
@@ -34,7 +34,7 @@
 	</paper>
 	<paper>
 		<year>2022</year>
-		<image>jif25.jpg</image>
+		<type>journal</type>
 		<title>A Computational Game Experience Analysis via Game Refinement Theory</title>
 		<author>Naying Gao, Gao Yuexian, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Telematics and Informatics Reports</publisher>
@@ -42,7 +42,7 @@
 	</paper>
 	<paper>
 		<year>2022</year>
-		<image>jif24.png</image>
+		<type>journal</type>
 		<title>Action Games Evolution Analysis - A Case Study Using the God of War Series</title>
 		<author>Zeliang Zhang, Naying Gao, Siqi Li, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>IEEE Access</publisher>
@@ -50,7 +50,7 @@
 	</paper>
 	<paper>
 		<year>2022</year>
-		<image>jif22.jpg</image>
+		<type>journal</type>
 		<title>Recent Techniques in Determining the Effects of Climate Change on Depressive Patients - a Systematic Review</title>
 		<author>Nur Izzati Ab Kader, Umi Kalsom Yusof, Mohd Nor Akmal Khalid, Nik Rosmawati Nik Husain</author>
 		<publisher>Journal of Environmental and Public Health</publisher>
@@ -58,7 +58,7 @@
 	</paper>
 	<paper>
 		<year>2022</year>
-		<image>jif21.jpg</image>
+		<type>journal</type>
 		<title>A Solver of Single-Agent Stochastic Puzzle - A Case Study with Minesweeper</title>
 		<author>Chang Liu, Shunqi Huang, Gao Naying, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Knowledge Based System</publisher>
@@ -66,7 +66,7 @@
 	</paper>
 	<paper>
 		<year>2022</year>
-		<image>jif20.jpg</image>
+		<type>journal</type>
 		<title>The Dynamics of Minority versus Majority Behaviors - A Case Study of the Mafia Game</title>
 		<author>Hong Ri, Xiaohan Kang, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Information</publisher>
@@ -74,7 +74,7 @@
 	</paper>
     <paper>
 		<year>2022</year>
-		<image>jif17.jpg</image>
+		<type>journal</type>
 		<title>Nature of Arcade Games</title>
 		<author>Yuexian Gao, Chang Liu, Naying Gao, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Entertainment Computing</publisher>
@@ -82,7 +82,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>jif19.jpg</image>
+		<type>journal</type>
 		<title>Capturing potential impact of challenge-based gamification on gamified quizzing in the classroom</title>
 		<author>Punyawee Anunpattana, Mohd Nor Akmal Khalid, Hiroyuki Iida, Wilawan Inchamnan</author>
 		<publisher>Heliyon</publisher>
@@ -90,7 +90,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>jif18.jpg</image>
+		<type>journal</type>
 		<title>Addictive Games - Case Study on Multi-Armed Bandit Game</title>
 		<author>Xiaohan Kang, Hong Ri, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Information</publisher>
@@ -98,7 +98,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>jif16.png</image>
+		<type>journal</type>
 		<title>What Constitutes Fairness in Games - A Case Study with Scrabble</title>
 		<author>Htun Pa Pa Aung, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Information</publisher>
@@ -106,7 +106,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>jif15.png</image>
+		<type>journal</type>
 		<title>Leveraging Bio-Inspired Knowledge-Intensive Optimization Algorithm in the Assembly Line Balancing Problem</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>IEEE Access</publisher>
@@ -114,7 +114,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>jif14.png</image>
+		<type>journal</type>
 		<title>MMORPG Evolution Analysis from Explorer and Achiever Perspectives - A Case Study Using the Final Fantasy Series</title>
 		<author>Haolan Wang, Zeliang Zhang, Mohd Nor Akmal Khalid, Hiroyuki Iida and Keqiu Li</author>
 		<publisher>Information</publisher>
@@ -122,7 +122,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>jif13.png</image>
+		<type>journal</type>
 		<title>Computing Games - Bridging The Gap Between Search and Entertainment</title>
 		<author>Anggina Primanita, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>IEEE Access</publisher>
@@ -130,7 +130,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>pc35.png</image>
+		<type>proceeding</type>
 		<title>Financial Time Series Forecasting Using Prophet</title>
 		<author>Yusof, Umi Kalsom and Khalid, Mohd Nor Akmal and Hussain, Abir and Shamsudin, Haziqah</author>
 		<publisher>International Conference of Reliable Information and Communication Technology (IRICT 2020)</publisher>
@@ -138,7 +138,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>jif12.png</image>
+		<type>journal</type>
 		<title>Objectivity and Subjectivity in Games - Understanding Engagement and Addiction Mechanism</title>
 		<author>Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>IEEE Access</publisher>
@@ -146,7 +146,7 @@
 	</paper>
 	<paper>
 		<year>2021</year>
-		<image>jif11.png</image>
+		<type>journal</type>
 		<title>Bridging Ride and Play Comfort</title>
 		<author>Zeliang Zhang, Kang Xiaohan, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>Information</publisher>
@@ -154,7 +154,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc34.png</image>
+		<type>incollection</type>
 		<title>Finding Flow in Training Activities by Exploring Single-Agent Arcade Game Information Dynamics</title>
 		<author>Yuexian Gao, Naying Gao, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>ICEC 2020 Entertainment Computing (ICEC 2020)</publisher>
@@ -162,7 +162,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jp17.png</image>
+		<type>journal</type>
 		<title>A Paradigm Shift from Optimal Play to Mental Comfort - A Perspective from the Game Reﬁnement Theory</title>
 		<author>Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>International Journal of Informatics, Information System and Computer Engineering (INJIISCOM)</publisher>
@@ -170,7 +170,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc33.png</image>
+		<type>proceeding</type>
 		<title>Attractiveness of Single-Agent Game - Case Study Using Sliding Puzzle</title>
 		<author>Chang Liu, Shunqi Huang, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>The 4th International Conference on Advanced Information Technologies (ICAIT-2020)</publisher>
@@ -178,7 +178,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc32.png</image>
+		<type>proceeding</type>
 		<title>Analysis of Single-Agent Game - Case Study Using Minesweeper</title>
 		<author>Wu Tingting, Huang Shunqi, Htung Pa Pa Aung, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>The 4th International Conference on Advanced Information Technologies (ICAIT-2020)</publisher>
@@ -186,7 +186,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc31.png</image>
+		<type>proceeding</type>
 		<title>Analysis of Jump and Jump And Its Possible Enhancement</title>
 		<author>Hong Ri, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>The 4th International Conference on Advanced Information Technologies (ICAIT-2020)</publisher>
@@ -194,7 +194,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc30.png</image>
+		<type>proceeding</type>
 		<title>Informational Analysis of Go, Part 2 - Zuozi and Huanqitou</title>
 		<author>Wu Yicong, Chang Liu, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>The 4th International Conference on Advanced Information Technologies (ICAIT-2020)</publisher>
@@ -202,7 +202,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc29.png</image>
+		<type>proceeding</type>
 		<title>Combine Oversampling and Undersampling Techniques for Imbalanced Classification in Credit Card Fraudulent Transaction Dataset - A Comparative Study</title>
 		<author>Haziqah Shamsudin, Umi Kalsom Yusof, Andal Jayalakshmi, and Mohd Nor Akmal Khalid</author>
 		<publisher>16th IEEE International Conference on Control and Automation (ICCA 2020)</publisher>
@@ -210,7 +210,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc28.png</image>
+		<type>proceeding</type>
 		<title>An Artificial Immune System Approach for Solving Type-E Assembly Line Balancing Problem with Problem-Specific Information</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Hiroyuki Iida</author>
 		<publisher>16th IEEE International Conference on Control and Automation (ICCA 2020)</publisher>
@@ -218,7 +218,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jif10.png</image>
+		<type>journal</type>
 		<title>Player Satisfaction Model and its Implication to Cultural Change</title>
 		<author>Kang Xiaohan, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
 		<publisher>IEEE Access</publisher>
@@ -226,7 +226,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc27.png</image>
+		<type>proceeding</type>
 		<title>Analysis of Business Model Transition Based on Active User and Review Value</title>
 		<author>Muhammad Nazhif Rizani, Mohd Nor Akmal Khalid, Hiroyuki Iida, and Reza Firsandaya Malik</author>
 		<publisher>International Conference on the Foundations of Digital Games (FDG '20)</publisher>
@@ -234,7 +234,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc26.png</image>
+		<type>proceeding</type>
 		<title>Ascertaining the Play Outcome using the Single Conspiracy Number in GoBang</title>
 		<author>Yuan An, Anggina Primanita, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>2020 IEEE Conference on Games (CoG2020)</publisher>
@@ -242,7 +242,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc25.png</image>
+		<type>proceeding</type>
 		<title>Informatical Analysis of Go, Part 1: Evolutionary Changes of Board Size</title>
 		<author>Wu Yicong, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>2020 IEEE Conference on Games (CoG2020)</publisher>
@@ -250,7 +250,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jif9.png</image>
+		<type>journal</type>
 		<title>Using Games to Study Law of Motions in Mind</title>
 		<author>Hiroyuki Iida, Mohd Nor Akmal Khalid</author>
 		<publisher>IEEE Access</publisher>
@@ -258,7 +258,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jif8.png</image>
+		<type>journal</type>
 		<title>Incorporating shifting bottleneck identification in assembly line balancing problem using an artificial immune system approach</title>
 		<author>Umi Kalsom Yusof, Mohd Nor Akmal Khalid</author>
 		<publisher>Flexible Services and Manufacturing Journal</publisher>
@@ -266,7 +266,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc24.png</image>
+		<type>proceeding</type>
 		<title>A Key Factor to Maintain Engagement: Case Study Using Login System</title>
 		<author>Gao Naying, Anggina Primanita, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Sriwijaya International Conference on Information Technology and Its Applications (SICONIAN 2019)</publisher>
@@ -274,7 +274,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc23.png</image>
+		<type>proceeding</type>
 		<title>Analyzing the Improvement Process of Table Tennis Using the Game Refinement Theory</title>
 		<author>Li Jiangzhou, Anggina Primanita, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>Sriwijaya International Conference on Information Technology and Its Applications (SICONIAN 2019)</publisher>
@@ -282,7 +282,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jif7.png</image>
+		<type>journal</type>
 		<title>Characterizing the Nature of Probability-Based Proof Number Search: A Case Study in the Othello and Connect Four Games</title>
 		<author>Anggina Primanita, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
 		<publisher>Information</publisher>
@@ -290,7 +290,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jif6.png</image>
+		<type>journal</type>
 		<title>Analyzing the Sophistication of Chinese Checkers</title>
 		<author>Wu Yisi, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
 		<publisher>Entertainment Computing</publisher>
@@ -298,7 +298,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jp16.png</image>
+		<type>journal</type>
 		<title>Coopetition in Solving Combinatorial Optimization Problem: Application to the Industrial Assembly Line Balancing Problem</title>
 		<author>Yuexian Gao, Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Hiroyuki Iida</author>
 		<publisher>Test Engineering and Management</publisher>
@@ -306,7 +306,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jif5.png</image>
+		<type>journal</type>
 		<title>Nature of Attractive Multiplayer Games - Case Study on China’s Most Popular Card Game—DouDiZhu</title>
 		<author>Yuexian Gao, Wanxiang Li, Yuhao Xiao, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
 		<publisher>Information - Special Issue on Advances in Mobile Gaming and Games-based Learning</publisher>
@@ -314,7 +314,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>jif4.png</image>
+		<type>journal</type>
 		<title>Finding appropriate settings for fairness and engagement of a newly designed game: A case study using Japanese crossword game ‘MyoGo Renju’</title>
 		<author>Liu Xinyue, Fu Luping, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
 		<publisher>Entertainment Computing</publisher>
@@ -322,7 +322,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc22.png</image>
+		<type>proceeding</type>
 		<title>Analysis of Card Collection Game Hearthstone</title>
 		<author>Chen Xiao, Anggina Primanita, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
 		<publisher>2019 International Conference on Technologies and Applications of Artificial Intelligence</publisher>
@@ -330,7 +330,7 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc21.png</image>
+		<type>proceeding</type>
 		<title>Analysis of Boardgames using Eye-tracking: Case Study with Gomoku</title>
 		<author>Wu, Yicong and Htun Pa Pa, Aung and Mohd Nor Akmal, Khalid and Hiroyuki, Iida</author>
 		<publisher>2019 International Conference on Technologies and Applications of Artificial Intelligence</publisher>
@@ -338,15 +338,15 @@
 	</paper>
 	<paper>
 		<year>2020</year>
-		<image>pc15.png</image>
-		<title>Quantifying a multiplayer game attractiveness of a Chinese card game DouDiZhu</title>
+		<type>incollection</type>
+		<title>Quantifying attractiveness of incomplete-information multi-player game - Case study using doudizhu</title>
 		<author>Yuexian Gao, Wanxiang Li, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
-		<publisher>Computational Science and Technology - ICCST2019</publisher>
-		<link>https://link.springer.com/chapter/10.1007/978-981-15-0058-9_29</link>
+		<publisher>Computational Science and Technology (ICCST2019)</publisher>
+		<link>https://doi.org/10.1007/978-981-15-0058-9_29</link>
 	</paper>
 	<paper>
 		<year>2019</year>
-		<image>pc20.png</image>
+		<type>proceeding</type>
 		<title>Evolution of Games Towards The Discovery of Noble Uncertainty</title>
 		<author>Wu, Yicong and Htun Pa Pa, Aung and Mohd Nor Akmal, Khalid and Hiroyuki, Iida</author>
 		<publisher>The 2019 International Conference on Advanced Information Technologies</publisher>
@@ -354,7 +354,7 @@
 	</paper>
 	<paper>
 		<year>2019</year>
-		<image>pc19.png</image>
+		<type>proceeding</type>
 		<title>Towards a fairness solution of Scrabble with Komi system</title>
 		<author>Htun Pa Pa, Aung and Mohd Nor Akmal, Khalid and Hiroyuki, Iida</author>
 		<publisher>The 2019 International Conference on Advanced Information Technologies</publisher>
@@ -362,7 +362,7 @@
 	</paper>
 	<paper>
 		<year>2019</year>
-		<image>jif3.png</image>
+		<type>journal</type>
 		<title>Simulating competitiveness and precision in a tournament structure: A reaper tournament system</title>
 		<author>An Vinh Nguyen Dinh, Nhien Pham Hoang Bao, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>International Journal of Information Technology</publisher>
@@ -370,7 +370,7 @@
 	</paper>
 	<paper>
 		<year>2019</year>
-		<image>jif2.png</image>
+		<type>journal</type>
 		<title>Game refinement theory: Paradigm shift from performance optimization to comfort in mind</title>
 		<author>Sakshi Agarwal, Mohd Nor Akmal Khalid and Hiroyuki Iida</author>
 		<publisher>Entertainment Computing</publisher>
@@ -378,7 +378,7 @@
 	</paper>
 	<paper>
 		<year>2019</year>
-		<image>pc18.png</image>
+		<type>proceeding</type>
 		<title>Using Curiosity Model to Characterize Edutainment based on Learners Growth Rate</title>
 		<author>Sakshi Agarwal, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>AWIST2019</publisher>
@@ -386,7 +386,7 @@
 	</paper>
 	<paper>
 		<year>2019</year>
-		<image>pc17.png</image>
+		<type>proceeding</type>
 		<title>User-centered Entertainment Factors for Platform Transformation and Game Development</title>
 		<author>Punyawee Anunpattana, Mohd Nor Akmal Khalid, Hiroyuki Iida</author>
 		<publisher>AWIST2019</publisher>
@@ -394,7 +394,7 @@
 	</paper>
 	<paper>
 		<year>2019</year>
-		<image>pc16.png</image>
+		<type>proceeding</type>
 		<title>Can we save near-dying games? An approach using advantage of initiative and game refinement measures</title>
 		<author>Htun Pa Pa Aung, Mohd Nor Akmal Khalid, and Hiroyuki Iida</author>
 		<publisher>AWIST2019</publisher>
@@ -402,7 +402,7 @@
 	</paper>
 	<paper>
 		<year>2019</year>
-		<image>pc14.png</image>
+		<type>proceeding</type>
 		<title>Single Conspiracy Number Analysis in Checkers</title>
 		<author>Sarot Busala, Zhang Song, Hiroyuki Iida, Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>ICAART2019</publisher>
@@ -410,7 +410,7 @@
 	</paper>
 	<paper>
 		<year>2018</year>
-		<image>pc13.png</image>
+		<type>proceeding</type>
 		<title>Classification of Manufacturing High Dimensional Data Using Deep Learning-based Approach</title>
 		<author>Yusof, Umi Kalsom and Khalid, Mohd Nor Akmal</author>
 		<publisher>BDS&amp;PRAGMA35</publisher>
@@ -418,7 +418,7 @@
 	</paper>
 	<paper>
 		<year>2018</year>
-		<image>jif1.png</image>
+		<type>journal</type>
 		<title>Dynamic crowd evacuation approach for the emergency route planning problem: Application to case studies</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>Safety Science</publisher>
@@ -426,7 +426,7 @@
 	</paper>
 	<paper>
 		<year>2018</year>
-		<image>jp15.png</image>
+		<type>journal</type>
 		<title>Analysis of Realm of Valor and its Business Model on PC and Mobile Platform Comparison</title>
 		<author>Punyawee Anunpattana, Mohd Nor Akmal Khalid, Umi Kalsom Yusof, Hiroyuki Iida</author>
 		<publisher>APJITM</publisher>
@@ -434,7 +434,7 @@
 	</paper>
 	<paper>
 		<year>2018</year>
-		<image>jp14.png</image>
+		<type>journal</type>
 		<title>An Artificial Immune System Approach for Type E Assembly Line Balancing Problem</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Zarul Fitri Zaaba</author>
 		<publisher>IJET</publisher>
@@ -442,7 +442,7 @@
 	</paper>
 	<paper>
 		<year>2018</year>
-		<image>jp13.png</image>
+		<type>journal</type>
 		<title>Alzheimer Patient Detection using Bayesian Network Model</title>
 		<author>Chong Tiam Fei, Mohd Nor Akmal Khalid, Umi Kalsom Yusof</author>
 		<publisher>Advance Science Letters</publisher>
@@ -450,7 +450,7 @@
 	</paper>
 	<paper>
 		<year>2018</year>
-		<image>jp12.png</image>
+		<type>journal</type>
 		<title>Automatic Detection Method of Pipeline Anomalies on Caliper Data</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Muhammad Thaqif Isa</author>
 		<publisher>Advance Science Letters</publisher>
@@ -458,7 +458,7 @@
 	</paper>
 	<paper>
 		<year>2016</year>
-		<image>jp11.png</image>
+		<type>journal</type>
 		<title>A Survey on Bio-Inspired Multi-Agent System for Versatile Manufacturing Assembly Line</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Ku Munirah Ku Aman</author>
 		<publisher>ICIC Express Letters</publisher>
@@ -466,7 +466,7 @@
 	</paper>
 	<paper>
 		<year>2016</year>
-		<image>pc12.png</image>
+		<type>proceeding</type>
 		<title>Model Student Selection Using Fuzzy Logic Reasoning Approach</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Looi Guo Xiang</author>
 		<publisher>ICAICTA2016</publisher>
@@ -474,7 +474,7 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>jp10.png</image>
+		<type>journal</type>
 		<title>Immune-Based Approach For Optimizing Emergency Route Planning Problem - Application To Case Studies</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>ICIC Express Letters</publisher>
@@ -482,7 +482,7 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>jp09.jpg</image>
+		<type>journal</type>
 		<title>Survey on crowd guidances optimization algorithm for emergency route planning and management problems</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Ahamad Tajudin Khader</author>
 		<publisher>ICIC Express Letters</publisher>
@@ -490,7 +490,7 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>jp08.png</image>
+		<type>journal</type>
 		<title>Dynamism in a Semiconductor Industrial Machine Allocation Problem using a Hybrid of the Bio-inspired and Musical-Harmony Approach</title>
 		<author>Umi Kalsom Yusof and Mohd Nor Akmal Khalid</author>
 		<publisher>IOP Conference Series - Materials Science and Engineering</publisher>
@@ -498,7 +498,7 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>jp07.png</image>
+		<type>journal</type>
 		<title>Optimizing distributed production scheduling problem in flexible manufacturing system subjects to machine maintenance - A modified chemical reaction approach</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>International Journal of Innovative Computing, Information and Control</publisher>
@@ -506,15 +506,15 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>pc11.png</image>
+		<type>proceeding</type>
 		<title>A Cellular Automata and Navigation Graph Framework in Simulating Crowd Behavior at Bus Terminal Platform</title>
 		<author>Nur Izzati Abdul Khader, Haziqah Shamsudin, Nur Diyana Abdul Razak, Umi Kalsom Yusof, and Mohd Nor Akmal Khalid</author>
 		<publisher>International Workshop on Graph Algorithms 2015</publisher>
-		<link>http://event.cs.usm.my/IWGA2015/images/Proceedings-IWGA2015.pdf</link>
+		<link>http://event.cs.usm.my/IWGA2015/types/Proceedings-IWGA2015.pdf</link>
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>pc10.png</image>
+		<type>proceeding</type>
 		<title>Football Player Selection Using Fuzzy Logic</title>
 		<author>Muhammad Bukhari Burhanuddin, Muhammad Syazwan Suhaimi, Muhammad Thaqif Isa, Umi Kalsom Yusof, and Mohd Nor Akmal Khalid</author>
 		<publisher>2015 Asean Conference on Information System</publisher>
@@ -522,7 +522,7 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>pc09.png</image>
+		<type>proceeding</type>
 		<title>Incorporating Dynamism in Emergency Route Planning Problem using Immune-Based Approach</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>4th ICSECS2015</publisher>
@@ -530,7 +530,7 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>pc08.png</image>
+		<type>proceeding</type>
 		<title>Critical position identification in games and its application to speculative play</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, Horiyuki Iida, and Taichi Ishitobi</author>
 		<publisher>ICAART2015</publisher>
@@ -538,7 +538,7 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>pc07.png</image>
+		<type>proceeding</type>
 		<title>An Artificial Immune Approach For Optimizing Crowd Emergency Evacuation Route Planning Problem</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>ICAART2015</publisher>
@@ -546,7 +546,7 @@
 	</paper>
 	<paper>
 		<year>2015</year>
-		<image>bc01.png</image>
+		<type>proceeding</type>
 		<title>Identifying Critical Positions Based on Conspiracy Numbers</title>
 		<author>Mohd Nor Akmal Khalid, E. Mei Ang, Umi Kalsom Yusof, Hiroyuki Iida, and Taichi Ishitobi</author>
 		<publisher>Lecture Notes in Computer Science</publisher>
@@ -554,7 +554,7 @@
 	</paper>
 	<paper>
 		<year>2014</year>
-		<image>jp06.png</image>
+		<type>journal</type>
 		<title>Artificial Immune System For Optimizing Public Bus Transportation Route During Peak And Off-Peak Hour</title>
 		<author>Lily Yeang Pui Fang, Umi Kalsom Yusof, and Mohd Nor Akmal Khalid</author>
 		<publisher>An Australian Journal of Basic and Applied Sciences</publisher>
@@ -562,7 +562,7 @@
 	</paper>
 	<paper>
 		<year>2014</year>
-		<image>jp05.png</image>
+		<type>journal</type>
 		<title>A Crowd Modeling Considering Group Cohesion In The Emergency Route Planning Problems</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>An Australian Journal of Basic and Applied Sciences</publisher>
@@ -570,7 +570,7 @@
 	</paper>
 	<paper>
 		<year>2014</year>
-		<image>jp04.png</image>
+		<type>journal</type>
 		<title>Optimizing The Distributed Production Scheduling Problems Using An Immune-Based Algorithm</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>Journal of Network and Innovative Computing</publisher>
@@ -578,7 +578,7 @@
 	</paper>
 	<paper>
 		<year>2014</year>
-		<image>jp03.png</image>
+		<type>journal</type>
 		<title>Artificial Immune System For Flexible Manufacturing System Machine Loading Problem</title>
 		<author>Umi Kalsom Yusof, Mohd Nor Akmal Khalid and Ahamad Tajudin Khader</author>
 		<publisher>An Innovative Computing, Information and Control Express Letters, Vol 8, No. 3</publisher>
@@ -586,7 +586,7 @@
 	</paper>
 	<paper>
 		<year>2014</year>
-		<image>jp02.png</image>
+		<type>journal</type>
 		<title>Improved Immune Algorithm for Optimizing Distributed Production Scheduling Problem in Flexible Manufacturing System Subject to Machine Maintenance</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>An International Journal Of Mathematics And Computers In Simulation</publisher>
@@ -594,7 +594,7 @@
 	</paper>
 	<paper>
 		<year>2013</year>
-		<image>jp01.png</image>
+		<type>journal</type>
 		<title>Solving Flexible Manufacturing System Distributed Scheduling Problem Subject To Maintenance: An Artificial Immune System Approach</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof and Ahamad Tajudin Khader</author>
 		<publisher>An Innovative Computing, Information and Control Express Letters</publisher>
@@ -602,7 +602,7 @@
 	</paper>
 	<paper>
 		<year>2014</year>
-		<image>pc06.png</image>
+		<type>proceeding</type>
 		<title>Content-Based Filtering Algorithm For Mobile Recipe Application</title>
 		<author>Cheng, Teh Lee, Umi Kalsom Yusof, and Mohd Nor Akmal Khalid</author>
 		<publisher>2014 8th Malaysian Software Engineering Conference (MySEC)</publisher>
@@ -610,7 +610,7 @@
 	</paper>
 	<paper>
 		<year>2013</year>
-		<image>pc05.png</image>
+		<type>proceeding</type>
 		<title>Preventive Maintenance Scheduling Optimization In Semiconductor Assembly Industry Using Harmony Search Algorithm</title>
 		<author>Nur Izzah Azhar, Umi Kalsom Yusof, and Mohd Nor Akmal Khalid</author>
 		<publisher>2013 IEEE Student Conference on Research and Development (SCOReD)</publisher>
@@ -618,7 +618,7 @@
 	</paper>
 	<paper>
 		<year>2013</year>
-		<image>pc04.png</image>
+		<type>proceeding</type>
 		<title>An Artificial Immune System Algorithm For Optimizing The Distributed Production Scheduling In The Semiconductor Assembly Industry</title>
 		<author>Nur Ifwah Mohd Anuar, Umi Kalsom Yusof, and Mohd Nor Akmal Khalid</author>
 		<publisher>2013 13th International Conference on Intelligent Systems Design and Applications (ISDA)</publisher>
@@ -626,7 +626,7 @@
 	</paper>
 	<paper>
 		<year>2013</year>
-		<image>pc03.png</image>
+		<type>proceeding</type>
 		<title>An Improved Immune Algorithms for Solving Flexible Manufacturing System Distributed Production Scheduling Problem Subjects to Machine Maintenance</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>Proceedings of the 2013 International Conference on Applied Mathematics and Computational Methods</publisher>
@@ -634,7 +634,7 @@
 	</paper>
 	<paper>
 		<year>2012</year>
-		<image>pc02.png</image>
+		<type>proceeding</type>
 		<title>A Knowledge-Based Expert System For The Smallholder Palm Oil Cultivator In Malaysia</title>
 		<author>Mohd Nor Akmal Khalid and Umi Kalsom Yusof</author>
 		<publisher>2012 IEEE Student Conference on Research and Development (SCOReD)</publisher>
@@ -642,7 +642,7 @@
 	</paper>
 	<paper>
 		<year>2012</year>
-		<image>pc01.png</image>
+		<type>proceeding</type>
 		<title>Solving Flexible Manufacturing System Distributed Scheduling Problem Subject To Maintenance Using Harmony Search Algorithm</title>
 		<author>Mohd Nor Akmal Khalid, Umi Kalsom Yusof, and Maziani Sabudin</author>
 		<publisher>2012 4th Conference on Data Mining and Optimization (DMO)</publisher>
