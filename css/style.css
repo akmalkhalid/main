@@ -334,8 +334,7 @@ header ul li a:hover{
   grid-template-columns: 50px 1fr 70px;
   padding: 1rem 0;
   margin: 0;
-  border: 2px solid transparent;
-  border-bottom-color: #f2f2f2
+  
 }
 
 .posts .excerpt {
