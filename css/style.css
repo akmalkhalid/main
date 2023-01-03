@@ -337,6 +337,15 @@ header ul li a:hover{
   
 }
 
+.posts a .each:hover h2 {
+  color: #111
+}
+
+.posts a .each:active, .posts a .each:focus {
+  border: 2px dashed #5183f5;
+  background: #f0f4fe
+}
+
 .posts .excerpt {
   font-size: 1rem;
   display: block;
