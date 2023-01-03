@@ -310,6 +310,42 @@ header ul li a:hover{
   font-weight: 600
 }
 
+[type=search], [type=text]{
+  display: block;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  padding: .75rem;
+  outline: none;
+  margin-bottom: .5rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  width: 100%;
+  max-width: 100%;
+  line-height: 1
+}
+
+.posts a {
+  display: block
+}
+
+.posts a .each {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 50px 1fr 70px;
+  padding: 1rem 0;
+  margin: 0;
+  border: 2px solid transparent;
+  border-bottom-color: #f2f2f2
+}
+
+.posts .excerpt {
+  font-size: 1rem;
+  display: block;
+  color: rgba(0, 0, 0, .4);
+  font-weight: 500
+}
+
+
 /* ====================================== */
 
 
@@ -342,7 +378,12 @@ header ul li a:hover{
 
 .intro .right_vid h2{
 	font-size: 20px;
-	line-height: 45px;
+	line-height: 25px;
+}
+
+.intro .right_vid p{
+	font-size: 15px;
+	line-height: 15px;
 }
 
 .intro .right_vid span{
@@ -381,7 +422,12 @@ header ul li a:hover{
 
 .intro .right_vid h2{
 	font-size: 15px;
-	line-height: 45px;
+	line-height: 20px;
+}
+
+.intro .right_vid p{
+	font-size: 15px;
+	line-height: 15px;
 }
 
 .intro .right_vid span{
