@@ -218,18 +218,96 @@ header ul li a:hover{
 	padding-bottom: 15px;
 }
 
-dd {
-  display: list-item;
-  list-style-type: "📃";
-  padding-inline-start: 1ch;
+/* ====================================== */
+
+
+
+/* ============ PUBS CONTENT ============ */
+
+.pub-content{
+	max-width: 80%;
 }
 
-dt {
-  font-weight: bold;
+.container {
+  /* max-width: 60%; */
+  padding: 0 0;
+  margin-left: auto;
+  margin-right: auto
 }
 
-dl {
-  max-width: 30vw;
+.category-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap
+}
+
+.category-container .category-filter {
+  display: flex;
+  align-items: center;
+  font-size: .85rem;
+  padding: .5rem .75rem;
+  background: #ebf1fe;
+  border-radius: 4px;
+  margin-right: .5rem;
+  margin-bottom: .5rem;
+  font-weight: 600;
+  color: #5183f5;
+  cursor: pointer
+}
+
+.category-container .category-filter .count {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .8rem;
+  margin-left: 1rem;
+  color: #5183f5;
+  height: 23px;
+  width: 23px;
+  border-radius: 50%;
+  padding: 5px
+}
+
+.category-container .category-filter.active {
+  background: #5183f5;
+  color: #fff
+}
+
+.category-container .category-filter.active .count {
+  background: #fff
+}
+
+.category-container .category-filter.active:active, .category-container .category-filter.active:focus, .category-container .category-filter.active:hover {
+  color: #fff;
+  background: #2161f2
+}
+
+.category-container .category-filter:last-of-type {
+  margin-right: 0
+}
+
+.category-container .category-filter:hover {
+  background: #d8e3fd;
+  color: #3972f4
+}
+
+.search {
+  margin-bottom: 0
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem
+}
+
+.filter-count {
+  width: 80px;
+  text-align: center;
+  color: #5183f5;
+  font-size: 1.4rem;
+  font-weight: 600
 }
 
 /* ====================================== */
