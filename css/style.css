@@ -337,13 +337,12 @@ header ul li a:hover{
   
 }
 
-.posts a .each:hover h2 {
-  color: #111
-}
-
-.posts a .each:active, .posts a .each:focus {
-  border: 2px dashed #5183f5;
-  background: #f0f4fe
+#posts a #each {
+  display: grid;
+  align-items: center;
+  grid-template-columns: auto auto;
+  padding: 0px 0px 0px 12px;
+  margin: 0;
 }
 
 .posts .excerpt {
@@ -351,6 +350,31 @@ header ul li a:hover{
   display: block;
   color: rgba(0, 0, 0, .4);
   font-weight: 500
+}
+
+.alert {
+  align-self: center;
+  justify-self: flex-end;
+  margin-left: 1rem
+}
+
+.alert .new {
+  font-size: .9rem;
+  background: #fff5da;
+  color: #f7b801
+}
+
+.alert .new, .alert .popular {
+  display: inline-block;
+  border-radius: 4px;
+  padding: .5rem .75rem;
+  text-align: center
+}
+
+.alert .popular {
+  font-size: .8rem;
+  background: #eafcee;
+  color: #1fc844
 }
 
 
@@ -440,6 +464,11 @@ header ul li a:hover{
 
 .intro .right_vid span{
 	font-size: 20px;
+}
+
+.alert .new, .alert .popular {
+    font-size: .9rem;
+    padding: .5rem 1rem
 }
 
 /* ====================================== */
