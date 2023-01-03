@@ -19,14 +19,8 @@ $(document).ready(function() {
     if (this.id == 'all') {
       $('.posts > a').fadeIn(450);
     } else {
-		
-		if(!$.isNumeric(this.id)){
-		  var $el = $('#' + this.id).fadeIn(450);
-		  $('.posts > a').not($el).hide();
-		} else{
-			var $el = $('.' + this.id).fadeIn(450);
-		  $('.posts > a').not($el).hide();
-		}
+		var $el = $('.' + this.id).fadeIn(450);
+		$('.posts > a').not($el).hide();
     }
 
     $btns.removeClass('active');
