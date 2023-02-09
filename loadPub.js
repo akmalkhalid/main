@@ -17,7 +17,7 @@ $(document).ready(function(){
 
 					html_data += '<a class="' + year_data + '" id="' + type_data + '" href="' + link_data + '" target="_blank">';
 					html_data += '<div class="each">';
-					html_data += '<div class="each-list-item"><h2>' + title_data + '</h2><div class="excerpt">' + author_data + '<br> (' + publisher_data + ')</div></div>';
+					html_data += '<div class="each-list-item"><h2>' + title_data + '</h2><div class="excerpt">' + author_data + '<br> (' + type_data + ' -- ' + publisher_data + ')</div></div>';
 					html_data += '<div class="alert"><div class="popular">' + year_data + '</div></div></div></a>';
 			});
 
