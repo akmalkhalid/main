@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
+    <paper>
+		<year>2023</year>
+		<type>journal</type>
+		<title>Recent Developments in Game-Theory Approaches for the Detection and Defense against Advanced Persistent Threats (APTs): A Systematic Review </title>
+		<author>Mohd Nor Akmal Khalid, Amjed Ahmed Al-Kadhimi, Manmeet Mahinderjit Singh</author>
+		<publisher>Mathematics</publisher>
+		<link>https://doi.org/10.3390/math11061353</link>
+	</paper>
 	<paper>
 		<year>2023</year>
 		<type>journal</type>
