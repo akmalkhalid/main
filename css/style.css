@@ -166,7 +166,13 @@ header ul li a:hover{
 
 .intro .right{
 	width: 68.8%;
-	padding: 2rem 0 0 1rem;
+	padding: 2rem 0 0 2rem;
+	margin: 0;
+}
+
+.intro #right{
+	width: 68.8%;
+	padding: 2rem 0 0 2rem;
 	margin: 0;
 }
 
@@ -390,6 +396,10 @@ header ul li a:hover{
 	padding: 0 0 0 0;
 }
 
+.intro #right{
+	padding: 1rem 0 0 1rem;
+}
+
 .intro .right h2{
 	font-size: 27px;
 	line-height: 45px;
@@ -439,6 +449,11 @@ header ul li a:hover{
 }
 
 .intro .right{
+	width: 100%;
+	padding: 0 0 0 0;
+}
+
+.intro #right{
 	width: 100%;
 	padding: 0 0 0 0;
 }
