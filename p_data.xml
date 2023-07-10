@@ -2,6 +2,14 @@
 <publication>
 	<paper>
 		<year>2023</year>
+		<type>journal</type>
+		<title>A Systematic Literature Review and a Conceptual Framework Proposition for Advanced Persistent Threats (APT) Detection for Mobile Devices Using Artificial Intelligence Techniques</title>
+		<author>Amjed Ahmed Al-Kadhimi, Manmeet Mahinderjit Singh, Mohd Nor Akmal Khalid</author>
+		<publisher>Applied Sciences</publisher>
+		<link>https://doi.org/10.3390/app13148056</link>
+	</paper>
+	<paper>
+		<year>2023</year>
 		<type>proceeding</type>
 		<title>Forecasting of Outpatient Hospital Visits using A Bidirectional Long Short-Term Memory Model</title>
 		<author>Nur Izzati Abd Kader, Umi Kalsom Yusof, Mohd Nor Akmal Khalid</author>
