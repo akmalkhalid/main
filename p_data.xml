@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
 	<paper>
+		<year>2024</year>
+		<type>journal</type>
+		<title>Exploring Authentication Paradigms in the Internet of Things: A Comprehensive Scoping Review</title>
+		<author>Nazhatul Hafizah Kamarudin, Nur Hanis Sabrina Suhaimi, Fadilla Atyka Nor Rashid, Mohd Nor Akmal Khalid, Fazlina Mohd Ali</author>
+		<publisher>Symmetry</publisher>
+		<link>https://doi.org/10.3390/sym16020171</link>
+	</paper>
+	<paper>
+		<year>2023</year>
+		<type>journal</type>
+		<title>Prevention of Covid-19 Health rumor Based on Serious Games: Development of “Fight with Virus”</title>
+		<author>Shuo Xiong, Long Zuo, Qiwei Chen, Zeliang Zhang, Mohd Nor Akmal Khalid</author>
+		<publisher>JMIR Serious Games</publisher>
+		<link>https://doi.org/10.2196/45546</link>
+	</paper>
+	<paper>
 		<year>2023</year>
 		<type>journal</type>
 		<title>A Systematic Literature Review and a Conceptual Framework Proposition for Advanced Persistent Threats (APT) Detection for Mobile Devices Using Artificial Intelligence Techniques</title>
