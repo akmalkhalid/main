@@ -450,6 +450,12 @@ header ul li a:hover{
   font-size: 1em;
 }
 
+.project-item:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+}
+
 
 /* ====================================== */
 
@@ -553,6 +559,14 @@ header ul li a:hover{
     font-size: .9rem;
     padding: .5rem 1rem
 }
+
+.project-item h3 {
+    font-size: 1.2em;
+  }
+
+  .project-item p {
+    font-size: 0.9em;
+  }
 
 /* ====================================== */
 	
