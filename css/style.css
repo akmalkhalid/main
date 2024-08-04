@@ -418,6 +418,38 @@ header ul li a:hover{
   transform: scale(1.5); 
 }
 
+.project-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.project-item {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.project-item img {
+  width: 100%;
+  height: auto;
+}
+
+.project-item h3, .project-item p {
+  padding: 15px;
+  margin: 0;
+}
+
+.project-item h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.project-item p {
+  font-size: 1em;
+}
+
 
 /* ====================================== */
 
