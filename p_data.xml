@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <publication>
+    <paper>
+		<year>2025</year>
+		<type>journal</type>
+		<title>Ludogenic Innovation: How Playing Incentivizes Technological Innovation</title>
+		<author>Mohd Nor Akmal Khalid</author>
+		<publisher>Entertainment Computing</publisher>
+		<link>https://doi.org/10.1016/j.entcom.2024.100900</link>
+	</paper>
 	<paper>
 		<year>2025</year>
 		<type>journal</type>
